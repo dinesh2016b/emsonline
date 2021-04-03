@@ -3,6 +3,7 @@
 .settings/
 pom
 pom.properties
+*/.project
 target/
 target/*
 db/sql-scripts/*
